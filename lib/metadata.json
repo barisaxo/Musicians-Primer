@@ -1,6 +1,6 @@
 {
   "vaultName": "Musicians-Primer",
-  "lastExport": 1728314218546,
+  "lastExport": 1728315741396,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -115,6 +115,22 @@
     "index.md",
     "Knowledge Map.canvas",
     "test.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "subjects/practice/guitar-study/resources/guitar-study.pdf",
     "lib/media/7th-chords.png",
     "lib/media/intervals.png",
     "lib/media/inversions.png",
@@ -124,38 +140,29 @@
     "lib/media/scales.png",
     "lib/media/steps.png",
     "lib/media/triads.png",
-    "lib/scripts/graph-wasm.wasm",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.jpg",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "subjects/theory/intro-to-music-theory/resources/png/outline.png",
+    "subjects/theory/intro-to-music-theory/resources/png/steps.png",
+    "subjects/theory/intro-to-music-theory/resources/png/scales.png",
+    "subjects/theory/intro-to-music-theory/resources/png/intervals.png",
+    "subjects/theory/intro-to-music-theory/resources/png/triads.png",
+    "subjects/theory/intro-to-music-theory/resources/png/7th-chords.png",
+    "subjects/theory/intro-to-music-theory/resources/png/inversions.png",
+    "subjects/theory/intro-to-music-theory/resources/png/modes.png",
+    "subjects/theory/intro-to-music-theory/resources/png/inverted-chords.png",
+    "subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg",
+    "subjects/time/rhythm-cells/resources/theory/rhythm-notation-elements.jpg",
+    "subjects/time/rhythm-cells/resources/theory/note-values.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/4-count-shapes.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/quarter-note-4-count.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/eighth-note-4-count.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/sixteenth-note-4-count.jpg",
+    "subjects/time/rhythm-cells/resources/3-count/half-note-triplets.jpg",
+    "subjects/time/rhythm-cells/resources/3-count/quarter-note-triplets.jpg",
+    "subjects/time/rhythm-cells/resources/3-count/eighth-note-triplets.jpg",
+    "subjects/time/rhythm-cells/resources/theory/stoccato-example.jpg",
+    "subjects/time/rhythm-cells/resources/theory/see-count-three-example.jpg"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -170,146 +177,133 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.jpg",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
   ],
   "fileInfo": {
     "Subjects/Composition/Composition.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 522,
-      "exportedPath": "subjects/composition/composition.html",
+      "exportedPath": "Subjects/Composition/Composition.html",
       "dependencies": []
     },
     "Subjects/Form/Form.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 62,
-      "exportedPath": "subjects/form/form.html",
+      "exportedPath": "Subjects/Form/Form.html",
       "dependencies": []
     },
     "Subjects/Pitch/Pitch.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 0,
-      "exportedPath": "subjects/pitch/pitch.html",
+      "exportedPath": "Subjects/Pitch/Pitch.html",
       "dependencies": []
     },
     "Subjects/Practice/Practice.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 0,
-      "exportedPath": "subjects/practice/practice.html",
+      "exportedPath": "Subjects/Practice/Practice.html",
       "dependencies": []
     },
     "Subjects/Technique/Technique.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 0,
-      "exportedPath": "subjects/technique/technique.html",
+      "exportedPath": "Subjects/Technique/Technique.html",
       "dependencies": []
     },
     "Subjects/Theory/Theory.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 0,
-      "exportedPath": "subjects/theory/theory.html",
+      "exportedPath": "Subjects/Theory/Theory.html",
       "dependencies": []
     },
     "Subjects/Time/Developing Sense Of Time/Counting.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 333,
-      "exportedPath": "subjects/time/developing-sense-of-time/counting.html",
+      "exportedPath": "Subjects/Time/Developing Sense Of Time/Counting.html",
       "dependencies": []
     },
     "Subjects/Time/Developing Sense Of Time/Drum Beats Everyone Should Know.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 0,
-      "exportedPath": "subjects/time/developing-sense-of-time/drum-beats-everyone-should-know.html",
+      "exportedPath": "Subjects/Time/Developing Sense Of Time/Drum Beats Everyone Should Know.html",
       "dependencies": []
     },
     "Subjects/Time/Developing Sense Of Time/Finding The 'One'.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 0,
-      "exportedPath": "subjects/time/developing-sense-of-time/finding-the-'one'.html",
+      "exportedPath": "Subjects/Time/Developing Sense Of Time/Finding The 'One'.html",
       "dependencies": []
     },
     "Subjects/Time/Metronome Excercises/Breaking Down Rhythms.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 0,
-      "exportedPath": "subjects/time/metronome-excercises/breaking-down-rhythms.html",
+      "exportedPath": "Subjects/Time/Metronome Excercises/Breaking Down Rhythms.html",
       "dependencies": []
     },
     "Subjects/Time/Metronome Excercises/Building Up Speed.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 0,
-      "exportedPath": "subjects/time/metronome-excercises/building-up-speed.html",
+      "exportedPath": "Subjects/Time/Metronome Excercises/Building Up Speed.html",
       "dependencies": []
     },
     "Subjects/Time/Metronome Excercises/Grooving The Feels.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 17,
-      "exportedPath": "subjects/time/metronome-excercises/grooving-the-feels.html",
+      "exportedPath": "Subjects/Time/Metronome Excercises/Grooving The Feels.html",
       "dependencies": []
     },
     "Subjects/Time/Metronome Excercises/Internalizing The Slow Beat.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 0,
-      "exportedPath": "subjects/time/metronome-excercises/internalizing-the-slow-beat.html",
+      "exportedPath": "Subjects/Time/Metronome Excercises/Internalizing The Slow Beat.html",
       "dependencies": []
     },
     "Subjects/Time/Feels.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 295,
-      "exportedPath": "subjects/time/feels.html",
+      "exportedPath": "Subjects/Time/Feels.html",
       "dependencies": []
     },
     "Subjects/Time/Groove.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 223,
-      "exportedPath": "subjects/time/groove.html",
+      "exportedPath": "Subjects/Time/Groove.html",
       "dependencies": []
     },
     "Subjects/Time/Rhythm.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 386,
-      "exportedPath": "subjects/time/rhythm.html",
+      "exportedPath": "Subjects/Time/Rhythm.html",
       "dependencies": []
     },
     "Subjects/Time/Tempo.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 347,
-      "exportedPath": "subjects/time/tempo.html",
+      "exportedPath": "Subjects/Time/Tempo.html",
       "dependencies": []
     },
     "Subjects/Time/Time.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 654,
-      "exportedPath": "subjects/time/time.html",
+      "exportedPath": "Subjects/Time/Time.html",
       "dependencies": []
     },
     "Glossary.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 214,
-      "exportedPath": "glossary.html",
+      "exportedPath": "Glossary.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 556,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Knowledge Map.canvas": {
-      "modifiedTime": 1728308184233,
+      "modifiedTime": 1728315741396,
       "sourceSize": 8304,
-      "exportedPath": "knowledge-map.html",
+      "exportedPath": "Knowledge Map.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
@@ -319,91 +313,91 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
@@ -487,572 +481,529 @@
       "dependencies": []
     },
     "Resources/Autumn Leaves.mid": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 22531,
-      "exportedPath": "resources/autumn-leaves.mid",
+      "exportedPath": "Resources/Autumn Leaves.mid",
       "dependencies": []
     },
     "Resources/Autumn Leaves.musicxml": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 20120,
-      "exportedPath": "resources/autumn-leaves.musicxml",
+      "exportedPath": "Resources/Autumn Leaves.musicxml",
       "dependencies": []
     },
     "Resources/Autumn Leaves2.musicxml": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 21338,
-      "exportedPath": "resources/autumn-leaves2.musicxml",
+      "exportedPath": "Resources/Autumn Leaves2.musicxml",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Diminished & Other/Chromatic Scale.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 836559,
-      "exportedPath": "subjects/practice/guitar-study/resources/diminished-&-other/chromatic-scale.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Diminished & Other/Chromatic Scale.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Diminished & Other/Diminished 7th Voicings.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 582380,
-      "exportedPath": "subjects/practice/guitar-study/resources/diminished-&-other/diminished-7th-voicings.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Diminished & Other/Diminished 7th Voicings.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Diminished & Other/Diminished Arpeggios.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 568241,
-      "exportedPath": "subjects/practice/guitar-study/resources/diminished-&-other/diminished-arpeggios.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Diminished & Other/Diminished Arpeggios.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Diminished & Other/Diminished Scales.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 696050,
-      "exportedPath": "subjects/practice/guitar-study/resources/diminished-&-other/diminished-scales.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Diminished & Other/Diminished Scales.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Diminished & Other/Whole Tone Scale.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 659340,
-      "exportedPath": "subjects/practice/guitar-study/resources/diminished-&-other/whole-tone-scale.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Diminished & Other/Whole Tone Scale.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Dominant/Dominant 7th Arpeggios.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 532723,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-7th-arpeggios.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Dominant/Dominant 7th Arpeggios.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Dominant/Dominant 7th Chords.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 433007,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-7th-chords.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Dominant/Dominant 7th Chords.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Dominant/Dominant Voicings.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 520222,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-voicings.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Dominant/Dominant Voicings.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Subdominant/Minor 7th Arpeggios.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 537457,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-7th-arpeggios.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Subdominant/Minor 7th Arpeggios.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Subdominant/Minor Chords.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 411185,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-chords.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Subdominant/Minor Chords.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Subdominant/Minor Pentatonic Scales.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 548320,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-pentatonic-scales.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Subdominant/Minor Pentatonic Scales.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Subdominant/Minor Triad Arpeggios.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 516464,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-triad-arpeggios.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Subdominant/Minor Triad Arpeggios.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Subdominant/Minor Voicings.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 580029,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-voicings.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Subdominant/Minor Voicings.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major 7th Arpeggios.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 497172,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-7th-arpeggios.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major 7th Arpeggios.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major Chords.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 406084,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-chords.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major Chords.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major Pentatonic Scale.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 551801,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-pentatonic-scale.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major Pentatonic Scale.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major Scales.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 872183,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-scales.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major Scales.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major Triad Arpeggios.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 524363,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-triad-arpeggios.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major Triad Arpeggios.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major Voicings.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 511344,
-      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-voicings.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Major (Tonality)/Tonic/Major Voicings.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Dominant/Altered Dominant Voicings.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 705771,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/altered-dominant-voicings.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Dominant/Altered Dominant Voicings.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Dominant/Augmented Triad Arpeggios.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 535554,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/augmented-triad-arpeggios.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Dominant/Augmented Triad Arpeggios.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Dominant/Dominant 7th b5 Arpeggios.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 522202,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b5-arpeggios.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Dominant/Dominant 7th b5 Arpeggios.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Dominant/Dominant 7th b13 Arpeggios.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 562647,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b13-arpeggios.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Dominant/Dominant 7th b13 Arpeggios.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Dominant/Harmonic Minor Scales.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 651601,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/harmonic-minor-scales.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Dominant/Harmonic Minor Scales.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Subdominant/Altered Scales.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 740144,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/altered-scales.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Subdominant/Altered Scales.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Subdominant/Minor 7th b5 Arpeggios.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 523564,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/minor-7th-b5-arpeggios.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Subdominant/Minor 7th b5 Arpeggios.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Subdominant/Minor 7th b5 Voicings.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 440358,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/minor-7th-b5-voicings.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Subdominant/Minor 7th b5 Voicings.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Tonic/Jazz Minor Scale.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 613170,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/jazz-minor-scale.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Tonic/Jazz Minor Scale.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Tonic/Minor 6th Arpeggio.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 534531,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/minor-6th-arpeggio.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Tonic/Minor 6th Arpeggio.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Tonic/Tonic Minor Voicings.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 578759,
-      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/tonic-minor-voicings.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Minor (Tonality)/Tonic/Tonic Minor Voicings.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Theory/Blank 1.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 286727,
-      "exportedPath": "subjects/practice/guitar-study/resources/theory/blank-1.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Theory/Blank 1.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Theory/Blank 2.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 295002,
-      "exportedPath": "subjects/practice/guitar-study/resources/theory/blank-2.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Theory/Blank 2.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Theory/Chord Scales.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 1036121,
-      "exportedPath": "subjects/practice/guitar-study/resources/theory/chord-scales.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Theory/Chord Scales.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Theory/RSOP.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 857395,
-      "exportedPath": "subjects/practice/guitar-study/resources/theory/rsop.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Theory/RSOP.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Theory/Tonalities.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 1047400,
-      "exportedPath": "subjects/practice/guitar-study/resources/theory/tonalities.png",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Theory/Tonalities.png",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Resources/Guitar Study.pdf": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 22631569,
-      "exportedPath": "subjects/practice/guitar-study/resources/guitar-study.pdf",
+      "exportedPath": "Subjects/Practice/Guitar Study/Resources/Guitar Study.pdf",
       "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Book.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 21,
-      "exportedPath": "subjects/practice/guitar-study/book.html",
-      "dependencies": [
-        "subjects/practice/guitar-study/resources/guitar-study.pdf"
-      ]
+      "exportedPath": "Subjects/Practice/Guitar Study/Book.html",
+      "dependencies": []
     },
     "Subjects/Practice/Guitar Study/Knowledge Map.canvas": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 6936,
-      "exportedPath": "subjects/practice/guitar-study/knowledge-map.html",
+      "exportedPath": "Subjects/Practice/Guitar Study/Knowledge Map.html",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/Notes/7th Chords.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 19,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/notes/7th-chords.html",
-      "dependencies": [
-        "lib/media/7th-chords.png"
-      ]
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/Notes/7th Chords.html",
+      "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/Notes/Intervals.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 18,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/notes/intervals.html",
-      "dependencies": [
-        "lib/media/intervals.png"
-      ]
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/Notes/Intervals.html",
+      "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/Notes/Inversions.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 19,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/notes/inversions.html",
-      "dependencies": [
-        "lib/media/inversions.png"
-      ]
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/Notes/Inversions.html",
+      "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/Notes/Inverted Chords.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 24,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/notes/inverted-chords.html",
-      "dependencies": [
-        "lib/media/inverted-chords.png"
-      ]
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/Notes/Inverted Chords.html",
+      "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/Notes/Modes.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 14,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/notes/modes.html",
-      "dependencies": [
-        "lib/media/modes.png"
-      ]
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/Notes/Modes.html",
+      "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/Notes/Outline.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 16,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/notes/outline.html",
-      "dependencies": [
-        "lib/media/outline.png"
-      ]
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/Notes/Outline.html",
+      "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/Notes/Scales.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 15,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/notes/scales.html",
-      "dependencies": [
-        "lib/media/scales.png"
-      ]
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/Notes/Scales.html",
+      "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/Notes/Steps.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 14,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/notes/steps.html",
-      "dependencies": [
-        "lib/media/steps.png"
-      ]
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/Notes/Steps.html",
+      "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/Notes/Triads.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 15,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/notes/triads.html",
-      "dependencies": [
-        "lib/media/triads.png"
-      ]
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/Notes/Triads.html",
+      "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/7th Chords.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 943388,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/7th-chords.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/7th Chords.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Blank Keyboard.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 230018,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/blank-keyboard.jpg",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Blank Keyboard.jpg",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Fretboard (page sized).png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 975896,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/fretboard-(page-sized).png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Fretboard (page sized).png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Fretboard ID by Ocatave.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 794455,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/fretboard-id-by-ocatave.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Fretboard ID by Ocatave.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Interval Chart.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 720356,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/interval-chart.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Interval Chart.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Intervals.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 733130,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/intervals.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Intervals.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Inversions.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 843477,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/inversions.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Inversions.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Inverted Chords.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 525770,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/inverted-chords.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Inverted Chords.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Modes.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 1410234,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/modes.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Modes.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Note ID.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 1093971,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/note-id.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Note ID.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Other Common Scales.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 823449,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/other-common-scales.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Other Common Scales.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Outline.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 433696,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/outline.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Outline.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Scales.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 919133,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/scales.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Scales.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Steps.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 1111900,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/steps.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Steps.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Resources/PNG/Triads.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 761602,
-      "exportedPath": "subjects/theory/intro-to-music-theory/resources/png/triads.png",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Resources/PNG/Triads.png",
       "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Book.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 126,
-      "exportedPath": "subjects/theory/intro-to-music-theory/book.html",
-      "dependencies": [
-        "subjects/theory/intro-to-music-theory/resources/png/outline.png",
-        "subjects/theory/intro-to-music-theory/resources/png/steps.png",
-        "subjects/theory/intro-to-music-theory/resources/png/scales.png",
-        "subjects/theory/intro-to-music-theory/resources/png/intervals.png",
-        "subjects/theory/intro-to-music-theory/resources/png/triads.png",
-        "subjects/theory/intro-to-music-theory/resources/png/7th-chords.png",
-        "subjects/theory/intro-to-music-theory/resources/png/inversions.png",
-        "subjects/theory/intro-to-music-theory/resources/png/modes.png",
-        "subjects/theory/intro-to-music-theory/resources/png/inverted-chords.png"
-      ]
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Book.html",
+      "dependencies": []
     },
     "Subjects/Theory/Intro To Music Theory/Knowledge map.canvas": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 3188,
-      "exportedPath": "subjects/theory/intro-to-music-theory/knowledge-map.html",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Knowledge map.html",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/3-Count/3-Count shapes.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 354069,
-      "exportedPath": "subjects/time/rhythm-cells/resources/3-count/3-count-shapes.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/3-Count/3-Count shapes.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/3-Count/Eighth Note Triplets.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 252842,
-      "exportedPath": "subjects/time/rhythm-cells/resources/3-count/eighth-note-triplets.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/3-Count/Eighth Note Triplets.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/3-Count/Half Note Triplets.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 252613,
-      "exportedPath": "subjects/time/rhythm-cells/resources/3-count/half-note-triplets.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/3-Count/Half Note Triplets.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/3-Count/Quarter Note Triplets.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 259749,
-      "exportedPath": "subjects/time/rhythm-cells/resources/3-count/quarter-note-triplets.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/3-Count/Quarter Note Triplets.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/4-Count/4-Count Shapes.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 434865,
-      "exportedPath": "subjects/time/rhythm-cells/resources/4-count/4-count-shapes.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/4-Count/4-Count Shapes.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/4-Count/Eighth Note 4-Count.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 312626,
-      "exportedPath": "subjects/time/rhythm-cells/resources/4-count/eighth-note-4-count.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/4-Count/Eighth Note 4-Count.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/4-Count/Quarter Note 4-Count.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 318444,
-      "exportedPath": "subjects/time/rhythm-cells/resources/4-count/quarter-note-4-count.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/4-Count/Quarter Note 4-Count.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/4-Count/Sixteenth Note 4-Count.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 330716,
-      "exportedPath": "subjects/time/rhythm-cells/resources/4-count/sixteenth-note-4-count.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/4-Count/Sixteenth Note 4-Count.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/Art/e.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 529034,
-      "exportedPath": "subjects/time/rhythm-cells/resources/art/e.png",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/Art/e.png",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/Art/q.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 528215,
-      "exportedPath": "subjects/time/rhythm-cells/resources/art/q.png",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/Art/q.png",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/Art/s.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 531651,
-      "exportedPath": "subjects/time/rhythm-cells/resources/art/s.png",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/Art/s.png",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/Art/shapes.png": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 534689,
-      "exportedPath": "subjects/time/rhythm-cells/resources/art/shapes.png",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/Art/shapes.png",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/Theory/Beat Map.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 466180,
-      "exportedPath": "subjects/time/rhythm-cells/resources/theory/beat-map.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/Theory/Beat Map.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/Theory/Note Values.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 522103,
-      "exportedPath": "subjects/time/rhythm-cells/resources/theory/note-values.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/Theory/Note Values.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/Theory/Rhythm Cells (theory).jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 629281,
-      "exportedPath": "subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/Theory/Rhythm Cells (theory).jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/Theory/Rhythm Notation Elements.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 634350,
-      "exportedPath": "subjects/time/rhythm-cells/resources/theory/rhythm-notation-elements.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/Theory/Rhythm Notation Elements.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/Theory/See Count Three Example.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 458431,
-      "exportedPath": "subjects/time/rhythm-cells/resources/theory/see-count-three-example.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/Theory/See Count Three Example.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Resources/Theory/Stoccato Example.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 391094,
-      "exportedPath": "subjects/time/rhythm-cells/resources/theory/stoccato-example.jpg",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Resources/Theory/Stoccato Example.jpg",
       "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Book.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 391,
-      "exportedPath": "subjects/time/rhythm-cells/book.html",
-      "dependencies": [
-        "subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg",
-        "subjects/time/rhythm-cells/resources/theory/rhythm-notation-elements.jpg",
-        "subjects/time/rhythm-cells/resources/theory/note-values.jpg",
-        "subjects/time/rhythm-cells/resources/4-count/4-count-shapes.jpg",
-        "subjects/time/rhythm-cells/resources/4-count/quarter-note-4-count.jpg",
-        "subjects/time/rhythm-cells/resources/4-count/eighth-note-4-count.jpg",
-        "subjects/time/rhythm-cells/resources/4-count/sixteenth-note-4-count.jpg",
-        "subjects/time/rhythm-cells/resources/3-count/half-note-triplets.jpg",
-        "subjects/time/rhythm-cells/resources/3-count/quarter-note-triplets.jpg",
-        "subjects/time/rhythm-cells/resources/3-count/eighth-note-triplets.jpg",
-        "subjects/time/rhythm-cells/resources/theory/stoccato-example.jpg",
-        "subjects/time/rhythm-cells/resources/theory/see-count-three-example.jpg"
-      ]
+      "exportedPath": "Subjects/Time/Rhythm Cells/Book.html",
+      "dependencies": []
     },
     "Subjects/Time/Rhythm Cells/Knowledge Map.canvas": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 3609,
-      "exportedPath": "subjects/time/rhythm-cells/knowledge-map.html",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Knowledge Map.html",
       "dependencies": []
     },
     "test.md": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728315741396,
       "sourceSize": 722,
       "exportedPath": "test.html",
       "dependencies": []

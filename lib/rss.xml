@@ -1,4 +1,1067 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Musicians-Primer]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.jpg</url><title>Musicians-Primer</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Oct 2024 13:36:26 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Oct 2024 13:36:24 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Composition]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Musicians-Primer]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.jpg</url><title>Musicians-Primer</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 07 Oct 2024 15:17:05 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 07 Oct 2024 15:16:58 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[7th Chords]]></title><description><![CDATA[ 
+ <br><img alt="7th Chords.png" src="lib/media/7th-chords.png">]]></description><link>subjects/theory/intro-to-music-theory/resources/notes/7th-chords.html</link><guid isPermaLink="false">Subjects/Theory/Intro To Music Theory/Resources/Notes/7th Chords.md</guid><pubDate>Wed, 02 Oct 2024 18:59:03 GMT</pubDate><enclosure url="lib/media/7th-chords.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/7th-chords.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Intervals]]></title><description><![CDATA[ 
+ <br><img alt="Intervals.png" src="lib/media/intervals.png">]]></description><link>subjects/theory/intro-to-music-theory/resources/notes/intervals.html</link><guid isPermaLink="false">Subjects/Theory/Intro To Music Theory/Resources/Notes/Intervals.md</guid><pubDate>Wed, 02 Oct 2024 18:58:42 GMT</pubDate><enclosure url="lib/media/intervals.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/intervals.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Inversions]]></title><description><![CDATA[ 
+ <br><img alt="Inversions.png" src="lib/media/inversions.png">]]></description><link>subjects/theory/intro-to-music-theory/resources/notes/inversions.html</link><guid isPermaLink="false">Subjects/Theory/Intro To Music Theory/Resources/Notes/Inversions.md</guid><pubDate>Wed, 02 Oct 2024 18:59:10 GMT</pubDate><enclosure url="lib/media/inversions.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/inversions.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Inverted Chords]]></title><description><![CDATA[ 
+ <br><img alt="Inverted Chords.png" src="lib/media/inverted-chords.png">]]></description><link>subjects/theory/intro-to-music-theory/resources/notes/inverted-chords.html</link><guid isPermaLink="false">Subjects/Theory/Intro To Music Theory/Resources/Notes/Inverted Chords.md</guid><pubDate>Wed, 02 Oct 2024 18:59:30 GMT</pubDate><enclosure url="lib/media/inverted-chords.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/inverted-chords.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Modes]]></title><description><![CDATA[ 
+ <br><img alt="Modes.png" src="lib/media/modes.png">]]></description><link>subjects/theory/intro-to-music-theory/resources/notes/modes.html</link><guid isPermaLink="false">Subjects/Theory/Intro To Music Theory/Resources/Notes/Modes.md</guid><pubDate>Wed, 02 Oct 2024 18:59:19 GMT</pubDate><enclosure url="lib/media/modes.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/modes.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Outline]]></title><description><![CDATA[ 
+ <br><img alt="Outline.png" src="lib/media/outline.png">]]></description><link>subjects/theory/intro-to-music-theory/resources/notes/outline.html</link><guid isPermaLink="false">Subjects/Theory/Intro To Music Theory/Resources/Notes/Outline.md</guid><pubDate>Wed, 02 Oct 2024 18:57:44 GMT</pubDate><enclosure url="lib/media/outline.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/outline.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Scales]]></title><description><![CDATA[ 
+ <br><img alt="Scales.png" src="lib/media/scales.png">]]></description><link>subjects/theory/intro-to-music-theory/resources/notes/scales.html</link><guid isPermaLink="false">Subjects/Theory/Intro To Music Theory/Resources/Notes/Scales.md</guid><pubDate>Wed, 02 Oct 2024 18:58:14 GMT</pubDate><enclosure url="lib/media/scales.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/scales.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Steps]]></title><description><![CDATA[ 
+ <br><img alt="Steps.png" src="lib/media/steps.png">]]></description><link>subjects/theory/intro-to-music-theory/resources/notes/steps.html</link><guid isPermaLink="false">Subjects/Theory/Intro To Music Theory/Resources/Notes/Steps.md</guid><pubDate>Wed, 02 Oct 2024 18:58:06 GMT</pubDate><enclosure url="lib/media/steps.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/steps.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Triads]]></title><description><![CDATA[ 
+ <br><img alt="Triads.png" src="lib/media/triads.png">]]></description><link>subjects/theory/intro-to-music-theory/resources/notes/triads.html</link><guid isPermaLink="false">Subjects/Theory/Intro To Music Theory/Resources/Notes/Triads.md</guid><pubDate>Wed, 02 Oct 2024 18:58:52 GMT</pubDate><enclosure url="lib/media/triads.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/triads.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Book]]></title><description><![CDATA[ 
+ <br>Outline<br><br><img alt="Outline.png" src="subjects/theory/intro-to-music-theory/resources/png/outline.png"><br>
+Steps<br><br><img alt="Steps.png" src="subjects/theory/intro-to-music-theory/resources/png/steps.png"><br>
+Scales<br><br><img alt="Scales.png" src="subjects/theory/intro-to-music-theory/resources/png/scales.png"><br>
+Intervals<br><br><img alt="Intervals.png" src="subjects/theory/intro-to-music-theory/resources/png/intervals.png"><br>
+Triads<br><br><img alt="Triads.png" src="subjects/theory/intro-to-music-theory/resources/png/triads.png"><br>
+7th Chords<br><br><img alt="7th Chords.png" src="subjects/theory/intro-to-music-theory/resources/png/7th-chords.png"><br>
+Inversions<br><br><img alt="Inversions.png" src="subjects/theory/intro-to-music-theory/resources/png/inversions.png"><br>
+Modes<br><br><img alt="Modes.png" src="subjects/theory/intro-to-music-theory/resources/png/modes.png"><br>
+Inverted Chords<br><br><img alt="Inverted Chords.png" src="subjects/theory/intro-to-music-theory/resources/png/inverted-chords.png">]]></description><link>subjects/theory/intro-to-music-theory/book.html</link><guid isPermaLink="false">Subjects/Theory/Intro To Music Theory/Book.md</guid><pubDate>Wed, 02 Oct 2024 19:00:45 GMT</pubDate><enclosure url="subjects/theory/intro-to-music-theory/resources/png/outline.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="subjects/theory/intro-to-music-theory/resources/png/outline.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Book]]></title><description><![CDATA[ 
+ <br>
+<br><img alt="Rhythm Cells (theory).jpg" src="subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg">
+<br><img alt="Rhythm Notation Elements.jpg" src="subjects/time/rhythm-cells/resources/theory/rhythm-notation-elements.jpg">
+<br><img alt="Note Values.jpg" src="subjects/time/rhythm-cells/resources/theory/note-values.jpg">
+<br><img alt="4-Count Shapes.jpg" src="subjects/time/rhythm-cells/resources/4-count/4-count-shapes.jpg">
+<br><img alt="Quarter Note 4-Count.jpg" src="subjects/time/rhythm-cells/resources/4-count/quarter-note-4-count.jpg">
+<br><img alt="Eighth Note 4-Count.jpg" src="subjects/time/rhythm-cells/resources/4-count/eighth-note-4-count.jpg">
+<br><img alt="Sixteenth Note 4-Count.jpg" src="subjects/time/rhythm-cells/resources/4-count/sixteenth-note-4-count.jpg">
+<br><img alt="Half Note Triplets.jpg" src="subjects/time/rhythm-cells/resources/3-count/half-note-triplets.jpg">
+<br><img alt="Quarter Note Triplets.jpg" src="subjects/time/rhythm-cells/resources/3-count/quarter-note-triplets.jpg">
+<br><img alt="Eighth Note Triplets.jpg" src="subjects/time/rhythm-cells/resources/3-count/eighth-note-triplets.jpg">
+<br><img alt="Stoccato Example.jpg" src="subjects/time/rhythm-cells/resources/theory/stoccato-example.jpg">
+<br><img alt="See Count Three Example.jpg" src="subjects/time/rhythm-cells/resources/theory/see-count-three-example.jpg">
+]]></description><link>subjects/time/rhythm-cells/book.html</link><guid isPermaLink="false">Subjects/Time/Rhythm Cells/Book.md</guid><pubDate>Wed, 02 Oct 2024 20:48:52 GMT</pubDate><enclosure url="subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[test]]></title><description><![CDATA[ 
+ <br>
+   Engraved by Verovio 4.2.0-8a772f5
+   
+      
+         
+      
+      
+         
+      
+      
+         
+      
+      
+         
+      
+      
+         
+      
+   
+   
+   
+      
+         
+         
+         
+            
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                  
+                  
+                     
+                        
+                     
+                     
+                        
+                     
+                  
+                  
+                     
+                     
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                  
+                     
+                        
+                           A
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        C
+                        
+                        m7
+                     
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        F
+                        
+                        7
+                     
+                  
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        3
+                     
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                  
+                  
+                     
+                        
+                     
+                     
+                        
+                     
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        B
+                        
+                        maj7
+                     
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        E
+                        
+                        maj7
+                     
+                  
+               
+               
+                  
+               
+            
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        A
+                        
+                        m7(
+                        
+                        5)
+                     
+                  
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        6
+                     
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                  
+                  
+                     
+                        
+                     
+                     
+                        
+                     
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        D
+                        
+                        7(add
+                        
+                        13)
+                     
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        G
+                        
+                        m6
+                     
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        G
+                        
+                        m6
+                     
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+            
+            
+         
+         
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                  
+                  
+                     
+                        
+                     
+                     
+                        
+                     
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                  
+                     
+                        
+                           B
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        A
+                        
+                        m7(
+                        
+                        5)
+                     
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        D
+                        
+                        7(add
+                        
+                        13)
+                     
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        G
+                        
+                        m6
+                     
+                  
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        12
+                     
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                  
+                  
+                     
+                        
+                     
+                     
+                        
+                     
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        G
+                        
+                        m6
+                     
+                  
+               
+               
+                  
+               
+            
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        C
+                        
+                        m7
+                     
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        F
+                        
+                        7
+                     
+                  
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        15
+                     
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                  
+                  
+                     
+                        
+                     
+                     
+                        
+                     
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        B
+                        
+                        maj7
+                     
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        E
+                        
+                        maj7
+                     
+                  
+               
+               
+                  
+                  
+               
+            
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                  
+                     
+                        
+                           C
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        A
+                        
+                        m7(
+                        
+                        5)
+                     
+                  
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        18
+                     
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                  
+                  
+                     
+                        
+                     
+                     
+                        
+                     
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        D
+                        
+                        7(add
+                        
+                        13)
+                     
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                           
+                        
+                        
+                     
+                     
+                        
+                           
+                        
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        G
+                        
+                        m7
+                     
+                  
+               
+               
+                  
+                     
+                        G
+                        
+                        7
+                     
+                  
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        20
+                     
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                  
+                  
+                     
+                        
+                     
+                     
+                        
+                     
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                           
+                        
+                        
+                     
+                     
+                        
+                           
+                        
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        F
+                        
+                        m7
+                     
+                  
+               
+               
+                  
+                     
+                        E
+                        
+                        7
+                     
+                  
+               
+               
+                  
+               
+            
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        A
+                        
+                        m7(
+                        
+                        5)
+                     
+                  
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     
+                        22
+                     
+                  
+               
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                  
+                  
+                     
+                        
+                     
+                     
+                        
+                     
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        D
+                        
+                        7(add
+                        
+                        13)
+                     
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        G
+                        
+                        m6
+                     
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+                  
+                  
+                  
+                  
+                  
+                     
+                        
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  
+                     
+                        G
+                        
+                        m6
+                     
+                  
+               
+               
+                  
+                  
+               
+            
+            
+         
+         
+         
+         
+            
+               
+                  title
+                  
+                     
+                        Autumn Leaves
+                     
+                  
+               
+            
+            
+               
+                  composer
+                  
+                     Joseph Kosma
+                  
+               
+            
+            
+               
+                  lyricist
+                  
+                     Medium Swing
+                  
+               
+            
+         
+      
+   
+   
+<br>Error rendering data: File not found or not a valid file: resources/Autumn Leaves.mid<br>Sheet Music for "alternate heads"alternate headsAmDmCAmDmC22222222222225225002202252252222222This translates to:2273022730227302273022730227302273007510751075107515953022730502273050007510751007510751559530595305595305953059530595305953059530595305021075023737Rock-ydid-ntlikethat525525]]></description><link>test.html</link><guid isPermaLink="false">test.md</guid><pubDate>Mon, 07 Oct 2024 15:07:01 GMT</pubDate></item><item><title><![CDATA[Composition]]></title><description><![CDATA[ 
  <br>Style (Genre):<br>
 Tonality:<br>
 Instrumentation:<br>
@@ -27,7 +1090,7 @@ Three and two and three and four and.<br>
 Four and two and three and four and."
 ]]></description><link>subjects/time/developing-sense-of-time/counting.html</link><guid isPermaLink="false">Subjects/Time/Developing Sense Of Time/Counting.md</guid><pubDate>Sat, 05 Oct 2024 11:35:06 GMT</pubDate></item><item><title><![CDATA[Drum Beats Everyone Should Know]]></title><description><![CDATA[ 
  ]]></description><link>subjects/time/developing-sense-of-time/drum-beats-everyone-should-know.html</link><guid isPermaLink="false">Subjects/Time/Developing Sense Of Time/Drum Beats Everyone Should Know.md</guid><pubDate>Fri, 04 Oct 2024 16:04:26 GMT</pubDate></item><item><title><![CDATA[Finding The 'One']]></title><description><![CDATA[ 
- ]]></description><link>subjects/time/developing-sense-of-time/finding-the-&apos;one&apos;.html</link><guid isPermaLink="false">Subjects/Time/Developing Sense Of Time/Finding The &apos;One&apos;.md</guid><pubDate>Fri, 04 Oct 2024 16:04:05 GMT</pubDate></item><item><title><![CDATA[Breaking Down Rhythms]]></title><description><![CDATA[ 
+ ]]></description><link>subjects/time/developing-sense-of-time/finding-the-'one'.html</link><guid isPermaLink="false">Subjects/Time/Developing Sense Of Time/Finding The 'One'.md</guid><pubDate>Fri, 04 Oct 2024 16:04:05 GMT</pubDate></item><item><title><![CDATA[Breaking Down Rhythms]]></title><description><![CDATA[ 
  ]]></description><link>subjects/time/metronome-excercises/breaking-down-rhythms.html</link><guid isPermaLink="false">Subjects/Time/Metronome Excercises/Breaking Down Rhythms.md</guid><pubDate>Fri, 04 Oct 2024 16:08:39 GMT</pubDate></item><item><title><![CDATA[Building Up Speed]]></title><description><![CDATA[ 
  ]]></description><link>subjects/time/metronome-excercises/building-up-speed.html</link><guid isPermaLink="false">Subjects/Time/Metronome Excercises/Building Up Speed.md</guid><pubDate>Fri, 04 Oct 2024 16:08:31 GMT</pubDate></item><item><title><![CDATA[Grooving The Feels]]></title><description><![CDATA[ 
  <br><a data-href="# Time/Rhythm" href="about:blank#_Time/Rhythm" class="internal-link" target="_self" rel="noopener">Time/Rhythm</a>]]></description><link>subjects/time/metronome-excercises/grooving-the-feels.html</link><guid isPermaLink="false">Subjects/Time/Metronome Excercises/Grooving The Feels.md</guid><pubDate>Fri, 04 Oct 2024 23:32:11 GMT</pubDate></item><item><title><![CDATA[Internalizing The Slow Beat]]></title><description><![CDATA[ 

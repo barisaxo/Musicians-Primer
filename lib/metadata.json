@@ -1,6 +1,6 @@
 {
   "vaultName": "Musicians-Primer",
-  "lastExport": 1728318949470,
+  "lastExport": 1728399709782,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -23,17 +23,30 @@
     "Subjects/Time/Metronome Excercises/Building Up Speed.md",
     "Subjects/Time/Metronome Excercises/Grooving The Feels.md",
     "Subjects/Time/Metronome Excercises/Internalizing The Slow Beat.md",
-    "Subjects/Time/Rhythm Cells/Book.md",
+    "Subjects/Time/Rhythm Cells/book.md",
     "Subjects/Time/Rhythm Cells/Knowledge Map.canvas",
     "Subjects/Time/Feels.md",
     "Subjects/Time/Groove.md",
     "Subjects/Time/Rhythm.md",
     "Subjects/Time/Tempo.md",
     "Subjects/Time/Time.md",
-    "Glossary.md",
+    "glossary.md",
     "index.md",
-    "Knowledge Map.canvas",
+    "knowledge-map.canvas",
     "test.md",
+    "subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg",
+    "subjects/time/rhythm-cells/resources/theory/rhythm-notation-elements.jpg",
+    "subjects/time/rhythm-cells/resources/theory/note-values.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/4-count-shapes.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/quarter-note-4-count.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/eighth-note-4-count.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/sixteenth-note-4-count.jpg",
+    "subjects/time/rhythm-cells/resources/3-count/half-note-triplets.jpg",
+    "subjects/time/rhythm-cells/resources/3-count/quarter-note-triplets.jpg",
+    "subjects/time/rhythm-cells/resources/3-count/eighth-note-triplets.jpg",
+    "subjects/time/rhythm-cells/resources/theory/stoccato-example.jpg",
+    "subjects/time/rhythm-cells/resources/theory/see-count-three-example.jpg",
+    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -48,9 +61,23 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg"
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.jpg",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -65,7 +92,20 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg"
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.jpg",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
   ],
   "fileInfo": {
     "Subjects/Composition/Composition.md": {
@@ -176,194 +216,182 @@
       "exportedPath": "Subjects/Time/Time.html",
       "dependencies": []
     },
-    "Glossary.md": {
-      "modifiedTime": 1728318949470,
-      "sourceSize": 214,
-      "exportedPath": "Glossary.html",
-      "dependencies": []
-    },
     "index.md": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 556,
       "exportedPath": "index.html",
       "dependencies": []
     },
-    "Knowledge Map.canvas": {
-      "modifiedTime": 1728318949470,
-      "sourceSize": 8304,
-      "exportedPath": "Knowledge Map.html",
-      "dependencies": []
-    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728318949470,
+      "modifiedTime": 1728399709782,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1728314218546,
-      "sourceSize": 127926,
+      "modifiedTime": 1728399709782,
+      "sourceSize": 35460,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.jpg": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 4150,
       "exportedPath": "lib/media/favicon.jpg",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1728314218546,
-      "sourceSize": 3202,
+      "modifiedTime": 1728399709782,
+      "sourceSize": 2241,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1728314218546,
+      "modifiedTime": 1728399709782,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -392,12 +420,6 @@
       "exportedPath": "Subjects/Theory/Intro To Music Theory/Knowledge map.html",
       "dependencies": []
     },
-    "Subjects/Time/Rhythm Cells/Book.md": {
-      "modifiedTime": 1728318949470,
-      "sourceSize": 391,
-      "exportedPath": "Subjects/Time/Rhythm Cells/Book.html",
-      "dependencies": []
-    },
     "Subjects/Time/Rhythm Cells/Knowledge Map.canvas": {
       "modifiedTime": 1728318949470,
       "sourceSize": 3609,
@@ -408,6 +430,109 @@
       "modifiedTime": 1728318949470,
       "sourceSize": 722,
       "exportedPath": "test.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Rhythm Cells/book.md": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 391,
+      "exportedPath": "subjects/time/rhythm-cells/book.html",
+      "dependencies": [
+        "subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg",
+        "subjects/time/rhythm-cells/resources/theory/rhythm-notation-elements.jpg",
+        "subjects/time/rhythm-cells/resources/theory/note-values.jpg",
+        "subjects/time/rhythm-cells/resources/4-count/4-count-shapes.jpg",
+        "subjects/time/rhythm-cells/resources/4-count/quarter-note-4-count.jpg",
+        "subjects/time/rhythm-cells/resources/4-count/eighth-note-4-count.jpg",
+        "subjects/time/rhythm-cells/resources/4-count/sixteenth-note-4-count.jpg",
+        "subjects/time/rhythm-cells/resources/3-count/half-note-triplets.jpg",
+        "subjects/time/rhythm-cells/resources/3-count/quarter-note-triplets.jpg",
+        "subjects/time/rhythm-cells/resources/3-count/eighth-note-triplets.jpg",
+        "subjects/time/rhythm-cells/resources/theory/stoccato-example.jpg",
+        "subjects/time/rhythm-cells/resources/theory/see-count-three-example.jpg"
+      ]
+    },
+    "glossary.md": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 220,
+      "exportedPath": "glossary.html",
+      "dependencies": []
+    },
+    "knowledge-map.canvas": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 8304,
+      "exportedPath": "knowledge-map.html",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 629281,
+      "exportedPath": "subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/theory/rhythm-notation-elements.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 634350,
+      "exportedPath": "subjects/time/rhythm-cells/resources/theory/rhythm-notation-elements.jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/theory/note-values.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 522103,
+      "exportedPath": "subjects/time/rhythm-cells/resources/theory/note-values.jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/4-count/4-count-shapes.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 434865,
+      "exportedPath": "subjects/time/rhythm-cells/resources/4-count/4-count-shapes.jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/4-count/quarter-note-4-count.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 318444,
+      "exportedPath": "subjects/time/rhythm-cells/resources/4-count/quarter-note-4-count.jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/4-count/eighth-note-4-count.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 312626,
+      "exportedPath": "subjects/time/rhythm-cells/resources/4-count/eighth-note-4-count.jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/4-count/sixteenth-note-4-count.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 330716,
+      "exportedPath": "subjects/time/rhythm-cells/resources/4-count/sixteenth-note-4-count.jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/3-count/half-note-triplets.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 252613,
+      "exportedPath": "subjects/time/rhythm-cells/resources/3-count/half-note-triplets.jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/3-count/quarter-note-triplets.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 259749,
+      "exportedPath": "subjects/time/rhythm-cells/resources/3-count/quarter-note-triplets.jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/3-count/eighth-note-triplets.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 252842,
+      "exportedPath": "subjects/time/rhythm-cells/resources/3-count/eighth-note-triplets.jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/theory/stoccato-example.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 391094,
+      "exportedPath": "subjects/time/rhythm-cells/resources/theory/stoccato-example.jpg",
+      "dependencies": []
+    },
+    "subjects/time/rhythm-cells/resources/theory/see-count-three-example.jpg": {
+      "modifiedTime": 1728399709782,
+      "sourceSize": 458431,
+      "exportedPath": "subjects/time/rhythm-cells/resources/theory/see-count-three-example.jpg",
       "dependencies": []
     }
   }

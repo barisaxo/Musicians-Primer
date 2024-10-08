@@ -1,6 +1,6 @@
 {
   "vaultName": "Musicians-Primer",
-  "lastExport": 1728404403159,
+  "lastExport": 1728405020138,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -34,35 +34,38 @@
     "Index.md",
     "Knowledge Map.canvas",
     "Test.md",
-    "subjects/practice/guitar-study/resources/guitar-study.pdf",
-    "subjects/theory/intro-to-music-theory/resources/png/outline.png",
-    "subjects/theory/intro-to-music-theory/resources/png/steps.png",
-    "subjects/theory/intro-to-music-theory/resources/png/scales.png",
-    "subjects/theory/intro-to-music-theory/resources/png/intervals.png",
-    "subjects/theory/intro-to-music-theory/resources/png/triads.png",
-    "subjects/theory/intro-to-music-theory/resources/png/7th-chords.png",
-    "subjects/theory/intro-to-music-theory/resources/png/inversions.png",
-    "subjects/theory/intro-to-music-theory/resources/png/modes.png",
-    "subjects/theory/intro-to-music-theory/resources/png/inverted-chords.png",
-    "lib/media/rsop.png",
-    "subjects/theory/intro-to-music-theory/resources/png/note-id.png",
-    "subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg",
-    "subjects/time/rhythm-cells/resources/theory/rhythm-notation-elements.jpg",
-    "subjects/time/rhythm-cells/resources/theory/note-values.jpg",
-    "subjects/time/rhythm-cells/resources/4-count/4-count-shapes.jpg",
-    "subjects/time/rhythm-cells/resources/4-count/quarter-note-4-count.jpg",
-    "subjects/time/rhythm-cells/resources/4-count/eighth-note-4-count.jpg",
-    "subjects/time/rhythm-cells/resources/4-count/sixteenth-note-4-count.jpg",
-    "subjects/time/rhythm-cells/resources/3-count/half-note-triplets.jpg",
-    "subjects/time/rhythm-cells/resources/3-count/quarter-note-triplets.jpg",
-    "subjects/time/rhythm-cells/resources/3-count/eighth-note-triplets.jpg",
-    "subjects/time/rhythm-cells/resources/theory/stoccato-example.jpg",
-    "subjects/time/rhythm-cells/resources/theory/see-count-three-example.jpg",
-    "subjects/time/rhythm-cells/resources/art/shapes.png",
-    "subjects/time/rhythm-cells/resources/theory/beat-map.jpg",
-    "subjects/time/rhythm-cells/resources/art/e.png",
-    "subjects/time/rhythm-cells/resources/art/s.png",
-    "subjects/time/rhythm-cells/resources/art/q.png",
+    "subjects/practice/guitar-study/resources/theory/rsop.png",
+    "subjects/practice/guitar-study/resources/theory/blank-1.png",
+    "subjects/practice/guitar-study/resources/theory/tonalities.png",
+    "subjects/practice/guitar-study/resources/theory/chord-scales.png",
+    "subjects/practice/guitar-study/resources/theory/blank-2.png",
+    "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/minor-7th-b5-voicings.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-chords.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-pentatonic-scale.png",
+    "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/augmented-triad-arpeggios.png",
+    "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b13-arpeggios.png",
+    "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/harmonic-minor-scales.png",
+    "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b5-arpeggios.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-triad-arpeggios.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-7th-arpeggios.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-scales.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-voicings.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-chords.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-pentatonic-scales.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-voicings.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-7th-arpeggios.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-triad-arpeggios.png",
+    "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/tonic-minor-voicings.png",
+    "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/jazz-minor-scale.png",
+    "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/minor-6th-arpeggio.png",
+    "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/minor-7th-b5-arpeggios.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-7th-arpeggios.png",
+    "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-voicings.png",
+    "subjects/practice/guitar-study/resources/diminished-&-other/chromatic-scale.png",
+    "subjects/practice/guitar-study/resources/diminished-&-other/whole-tone-scale.png",
+    "subjects/practice/guitar-study/resources/diminished-&-other/diminished-7th-voicings.png",
+    "subjects/practice/guitar-study/resources/diminished-&-other/diminished-arpeggios.png",
+    "subjects/practice/guitar-study/resources/diminished-&-other/diminished-scales.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -91,7 +94,36 @@
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "subjects/practice/guitar-study/resources/guitar-study.pdf",
+    "subjects/theory/intro-to-music-theory/resources/png/outline.png",
+    "subjects/theory/intro-to-music-theory/resources/png/steps.png",
+    "subjects/theory/intro-to-music-theory/resources/png/scales.png",
+    "subjects/theory/intro-to-music-theory/resources/png/intervals.png",
+    "subjects/theory/intro-to-music-theory/resources/png/triads.png",
+    "subjects/theory/intro-to-music-theory/resources/png/7th-chords.png",
+    "subjects/theory/intro-to-music-theory/resources/png/inversions.png",
+    "subjects/theory/intro-to-music-theory/resources/png/modes.png",
+    "subjects/theory/intro-to-music-theory/resources/png/inverted-chords.png",
+    "lib/media/rsop.png",
+    "subjects/theory/intro-to-music-theory/resources/png/note-id.png",
+    "subjects/time/rhythm-cells/resources/theory/rhythm-cells-(theory).jpg",
+    "subjects/time/rhythm-cells/resources/theory/rhythm-notation-elements.jpg",
+    "subjects/time/rhythm-cells/resources/theory/note-values.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/4-count-shapes.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/quarter-note-4-count.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/eighth-note-4-count.jpg",
+    "subjects/time/rhythm-cells/resources/4-count/sixteenth-note-4-count.jpg",
+    "subjects/time/rhythm-cells/resources/3-count/half-note-triplets.jpg",
+    "subjects/time/rhythm-cells/resources/3-count/quarter-note-triplets.jpg",
+    "subjects/time/rhythm-cells/resources/3-count/eighth-note-triplets.jpg",
+    "subjects/time/rhythm-cells/resources/theory/stoccato-example.jpg",
+    "subjects/time/rhythm-cells/resources/theory/see-count-three-example.jpg",
+    "subjects/time/rhythm-cells/resources/art/shapes.png",
+    "subjects/time/rhythm-cells/resources/theory/beat-map.jpg",
+    "subjects/time/rhythm-cells/resources/art/e.png",
+    "subjects/time/rhythm-cells/resources/art/s.png",
+    "subjects/time/rhythm-cells/resources/art/q.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -152,10 +184,45 @@
       ]
     },
     "Subjects/Practice/Guitar Study/Knowledge Map.canvas": {
-      "modifiedTime": 1728404403159,
-      "sourceSize": 6936,
+      "modifiedTime": 1728405020138,
+      "sourceSize": 7377,
       "exportedPath": "subjects/practice/guitar-study/knowledge-map.html",
-      "dependencies": []
+      "dependencies": [
+        "subjects/practice/guitar-study/resources/theory/rsop.png",
+        "subjects/practice/guitar-study/resources/theory/blank-1.png",
+        "subjects/practice/guitar-study/resources/theory/tonalities.png",
+        "subjects/practice/guitar-study/resources/theory/chord-scales.png",
+        "subjects/practice/guitar-study/resources/theory/blank-2.png",
+        "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/minor-7th-b5-voicings.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-chords.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-pentatonic-scale.png",
+        "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/augmented-triad-arpeggios.png",
+        "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b13-arpeggios.png",
+        "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/harmonic-minor-scales.png",
+        "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b5-arpeggios.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-triad-arpeggios.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-7th-arpeggios.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-scales.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-voicings.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-chords.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-pentatonic-scales.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-scales.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-voicings.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-7th-arpeggios.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-triad-arpeggios.png",
+        "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/tonic-minor-voicings.png",
+        "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/jazz-minor-scale.png",
+        "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/minor-6th-arpeggio.png",
+        "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/minor-7th-b5-arpeggios.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-7th-arpeggios.png",
+        "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b5-arpeggios.png",
+        "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-voicings.png",
+        "subjects/practice/guitar-study/resources/diminished-&-other/chromatic-scale.png",
+        "subjects/practice/guitar-study/resources/diminished-&-other/whole-tone-scale.png",
+        "subjects/practice/guitar-study/resources/diminished-&-other/diminished-7th-voicings.png",
+        "subjects/practice/guitar-study/resources/diminished-&-other/diminished-arpeggios.png",
+        "subjects/practice/guitar-study/resources/diminished-&-other/diminished-scales.png"
+      ]
     },
     "Subjects/Practice/Practice.md": {
       "modifiedTime": 1728404403159,
@@ -522,177 +589,369 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 35455,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.jpg": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 4150,
       "exportedPath": "lib/media/favicon.jpg",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 2237,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1728404403159,
-      "sourceSize": 236,
+      "modifiedTime": 1728405020138,
+      "sourceSize": 253,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1728404403159,
+      "modifiedTime": 1728405020138,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/theory/rsop.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 857395,
+      "exportedPath": "subjects/practice/guitar-study/resources/theory/rsop.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/theory/blank-1.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 286727,
+      "exportedPath": "subjects/practice/guitar-study/resources/theory/blank-1.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/theory/tonalities.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 1047400,
+      "exportedPath": "subjects/practice/guitar-study/resources/theory/tonalities.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/theory/chord-scales.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 1036121,
+      "exportedPath": "subjects/practice/guitar-study/resources/theory/chord-scales.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/theory/blank-2.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 295002,
+      "exportedPath": "subjects/practice/guitar-study/resources/theory/blank-2.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/minor-7th-b5-voicings.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 440358,
+      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/minor-7th-b5-voicings.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-chords.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 406084,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-chords.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-pentatonic-scale.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 551801,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-pentatonic-scale.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/augmented-triad-arpeggios.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 535554,
+      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/augmented-triad-arpeggios.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b13-arpeggios.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 562647,
+      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b13-arpeggios.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/harmonic-minor-scales.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 651601,
+      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/harmonic-minor-scales.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b5-arpeggios.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 522202,
+      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/dominant/dominant-7th-b5-arpeggios.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-triad-arpeggios.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 524363,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-triad-arpeggios.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-7th-arpeggios.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 497172,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-7th-arpeggios.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-scales.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 872183,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-scales.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-voicings.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 511344,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/tonic/major-voicings.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-chords.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 411185,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-chords.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-pentatonic-scales.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 548320,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-pentatonic-scales.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-voicings.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 580029,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-voicings.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-7th-arpeggios.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 537457,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-7th-arpeggios.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-triad-arpeggios.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 516464,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/subdominant/minor-triad-arpeggios.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/tonic-minor-voicings.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 578759,
+      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/tonic-minor-voicings.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/jazz-minor-scale.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 613170,
+      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/jazz-minor-scale.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/minor-6th-arpeggio.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 534531,
+      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/tonic/minor-6th-arpeggio.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/minor-7th-b5-arpeggios.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 523564,
+      "exportedPath": "subjects/practice/guitar-study/resources/minor-(tonality)/subdominant/minor-7th-b5-arpeggios.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-7th-arpeggios.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 532723,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-7th-arpeggios.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-voicings.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 520222,
+      "exportedPath": "subjects/practice/guitar-study/resources/major-(tonality)/dominant/dominant-voicings.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/diminished-&-other/chromatic-scale.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 836559,
+      "exportedPath": "subjects/practice/guitar-study/resources/diminished-&-other/chromatic-scale.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/diminished-&-other/whole-tone-scale.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 659340,
+      "exportedPath": "subjects/practice/guitar-study/resources/diminished-&-other/whole-tone-scale.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/diminished-&-other/diminished-7th-voicings.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 582380,
+      "exportedPath": "subjects/practice/guitar-study/resources/diminished-&-other/diminished-7th-voicings.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/diminished-&-other/diminished-arpeggios.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 568241,
+      "exportedPath": "subjects/practice/guitar-study/resources/diminished-&-other/diminished-arpeggios.png",
+      "dependencies": []
+    },
+    "subjects/practice/guitar-study/resources/diminished-&-other/diminished-scales.png": {
+      "modifiedTime": 1728405020138,
+      "sourceSize": 696050,
+      "exportedPath": "subjects/practice/guitar-study/resources/diminished-&-other/diminished-scales.png",
       "dependencies": []
     }
   }

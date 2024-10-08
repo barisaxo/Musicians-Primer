@@ -1,39 +1,39 @@
 {
   "vaultName": "Musicians-Primer",
-  "lastExport": 1728400538758,
+  "lastExport": 1728404065164,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
-    "subjects/composition/composition.md",
-    "subjects/form/form.md",
-    "subjects/pitch/pitch.md",
-    "subjects/practice/Guitar Study/Book.md",
-    "subjects/practice/Guitar Study/Knowledge Map.canvas",
-    "subjects/practice/Practice.md",
-    "subjects/technique/technique.md",
-    "subjects/theory/intro To Music Theory/book.md",
-    "subjects/theory/intro To Music Theory/knowledge map.canvas",
-    "subjects/theory/theory.md",
-    "subjects/time/developing Sense Of Time/counting.md",
-    "subjects/time/developing Sense Of Time/drum Beats Everyone Should Know.md",
-    "subjects/time/developing Sense Of Time/finding The 'One'.md",
-    "subjects/time/metronome Exercises/breaking Down Rhythms.md",
-    "subjects/time/metronome Exercises/building Up Speed.md",
-    "subjects/time/metronome Exercises/grooving The Feels.md",
-    "subjects/time/metronome Exercises/internalizing The Slow Beat.md",
-    "subjects/time/rhythm Cells/book.md",
-    "subjects/time/rhythm Cells/knowledge Map.canvas",
-    "subjects/time/feels.md",
-    "subjects/time/groove.md",
-    "subjects/time/rhythm.md",
-    "subjects/time/tempo.md",
-    "subjects/time/time.md",
-    "glossary.md",
-    "index.md",
-    "knowledge-map.canvas",
-    "test.md",
+    "Subjects/Composition/Composition.md",
+    "Subjects/Form/Form.md",
+    "Subjects/Pitch/Pitch.md",
+    "Subjects/Practice/Guitar Study/Book.md",
+    "Subjects/Practice/Guitar Study/Knowledge Map.canvas",
+    "Subjects/Practice/Practice.md",
+    "Subjects/Technique/Technique.md",
+    "Subjects/Theory/Intro To Music Theory/Book.md",
+    "Subjects/Theory/Intro To Music Theory/Knowledge map.canvas",
+    "Subjects/Theory/Theory.md",
+    "Subjects/Time/Developing Sense Of Time/Counting.md",
+    "Subjects/Time/Developing Sense Of Time/Drum Beats Everyone Should Know.md",
+    "Subjects/Time/Developing Sense Of Time/Finding The 'One'.md",
+    "Subjects/Time/Metronome Exercises/Breaking Down Rhythms.md",
+    "Subjects/Time/Metronome Exercises/Building Up Speed.md",
+    "Subjects/Time/Metronome Exercises/Grooving The Feels.md",
+    "Subjects/Time/Metronome Exercises/Internalizing The Slow Beat.md",
+    "Subjects/Time/Rhythm Cells/Book.md",
+    "Subjects/Time/Rhythm Cells/Knowledge Map.canvas",
+    "Subjects/Time/Feels.md",
+    "Subjects/Time/Groove.md",
+    "Subjects/Time/Rhythm.md",
+    "Subjects/Time/Tempo.md",
+    "Subjects/Time/Time.md",
+    "Glossary.md",
+    "Index.md",
+    "Knowledge Map.canvas",
+    "Test.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -68,260 +68,260 @@
     "lib/media/3d6c1bdc4d87cde4de67.svg"
   ],
   "fileInfo": {
-    "subjects/composition/composition.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Composition/Composition.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 522,
-      "exportedPath": "subjects/composition/composition.html",
+      "exportedPath": "Subjects/Composition/Composition.html",
       "dependencies": []
     },
-    "subjects/form/form.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Form/Form.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 62,
-      "exportedPath": "subjects/form/form.html",
+      "exportedPath": "Subjects/Form/Form.html",
       "dependencies": []
     },
-    "subjects/pitch/pitch.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Pitch/Pitch.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 0,
-      "exportedPath": "subjects/pitch/pitch.html",
+      "exportedPath": "Subjects/Pitch/Pitch.html",
       "dependencies": []
     },
-    "subjects/practice/Guitar Study/Book.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Practice/Guitar Study/Book.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 21,
-      "exportedPath": "subjects/practice/Guitar Study/Book.html",
+      "exportedPath": "Subjects/Practice/Guitar Study/Book.html",
       "dependencies": []
     },
-    "subjects/practice/Guitar Study/Knowledge Map.canvas": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Practice/Guitar Study/Knowledge Map.canvas": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 6936,
-      "exportedPath": "subjects/practice/Guitar Study/Knowledge Map.html",
+      "exportedPath": "Subjects/Practice/Guitar Study/Knowledge Map.html",
       "dependencies": []
     },
-    "subjects/practice/Practice.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Practice/Practice.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 0,
-      "exportedPath": "subjects/practice/Practice.html",
+      "exportedPath": "Subjects/Practice/Practice.html",
       "dependencies": []
     },
-    "subjects/technique/technique.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Technique/Technique.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 0,
-      "exportedPath": "subjects/technique/technique.html",
+      "exportedPath": "Subjects/Technique/Technique.html",
       "dependencies": []
     },
-    "subjects/theory/intro To Music Theory/book.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Theory/Intro To Music Theory/Book.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 126,
-      "exportedPath": "subjects/theory/intro To Music Theory/book.html",
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Book.html",
       "dependencies": []
     },
-    "subjects/theory/intro To Music Theory/knowledge map.canvas": {
-      "modifiedTime": 1728400538758,
-      "sourceSize": 3188,
-      "exportedPath": "subjects/theory/intro To Music Theory/knowledge map.html",
+    "Subjects/Theory/Intro To Music Theory/Knowledge map.canvas": {
+      "modifiedTime": 1728404065164,
+      "sourceSize": 3343,
+      "exportedPath": "Subjects/Theory/Intro To Music Theory/Knowledge map.html",
       "dependencies": []
     },
-    "subjects/theory/theory.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Theory/Theory.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 0,
-      "exportedPath": "subjects/theory/theory.html",
+      "exportedPath": "Subjects/Theory/Theory.html",
       "dependencies": []
     },
-    "subjects/time/developing Sense Of Time/counting.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Developing Sense Of Time/Counting.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 333,
-      "exportedPath": "subjects/time/developing Sense Of Time/counting.html",
+      "exportedPath": "Subjects/Time/Developing Sense Of Time/Counting.html",
       "dependencies": []
     },
-    "subjects/time/developing Sense Of Time/drum Beats Everyone Should Know.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Developing Sense Of Time/Drum Beats Everyone Should Know.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 0,
-      "exportedPath": "subjects/time/developing Sense Of Time/drum Beats Everyone Should Know.html",
+      "exportedPath": "Subjects/Time/Developing Sense Of Time/Drum Beats Everyone Should Know.html",
       "dependencies": []
     },
-    "subjects/time/developing Sense Of Time/finding The 'One'.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Developing Sense Of Time/Finding The 'One'.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 0,
-      "exportedPath": "subjects/time/developing Sense Of Time/finding The 'One'.html",
+      "exportedPath": "Subjects/Time/Developing Sense Of Time/Finding The 'One'.html",
       "dependencies": []
     },
-    "subjects/time/metronome Exercises/breaking Down Rhythms.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Metronome Exercises/Breaking Down Rhythms.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 0,
-      "exportedPath": "subjects/time/metronome Exercises/breaking Down Rhythms.html",
+      "exportedPath": "Subjects/Time/Metronome Exercises/Breaking Down Rhythms.html",
       "dependencies": []
     },
-    "subjects/time/metronome Exercises/building Up Speed.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Metronome Exercises/Building Up Speed.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 0,
-      "exportedPath": "subjects/time/metronome Exercises/building Up Speed.html",
+      "exportedPath": "Subjects/Time/Metronome Exercises/Building Up Speed.html",
       "dependencies": []
     },
-    "subjects/time/metronome Exercises/grooving The Feels.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Metronome Exercises/Grooving The Feels.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 17,
-      "exportedPath": "subjects/time/metronome Exercises/grooving The Feels.html",
+      "exportedPath": "Subjects/Time/Metronome Exercises/Grooving The Feels.html",
       "dependencies": []
     },
-    "subjects/time/metronome Exercises/internalizing The Slow Beat.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Metronome Exercises/Internalizing The Slow Beat.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 0,
-      "exportedPath": "subjects/time/metronome Exercises/internalizing The Slow Beat.html",
+      "exportedPath": "Subjects/Time/Metronome Exercises/Internalizing The Slow Beat.html",
       "dependencies": []
     },
-    "subjects/time/rhythm Cells/book.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Rhythm Cells/Book.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 391,
-      "exportedPath": "subjects/time/rhythm Cells/book.html",
+      "exportedPath": "Subjects/Time/Rhythm Cells/Book.html",
       "dependencies": []
     },
-    "subjects/time/rhythm Cells/knowledge Map.canvas": {
-      "modifiedTime": 1728400538758,
-      "sourceSize": 3609,
-      "exportedPath": "subjects/time/rhythm Cells/knowledge Map.html",
+    "Subjects/Time/Rhythm Cells/Knowledge Map.canvas": {
+      "modifiedTime": 1728404065164,
+      "sourceSize": 3847,
+      "exportedPath": "Subjects/Time/Rhythm Cells/Knowledge Map.html",
       "dependencies": []
     },
-    "subjects/time/feels.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Feels.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 295,
-      "exportedPath": "subjects/time/feels.html",
+      "exportedPath": "Subjects/Time/Feels.html",
       "dependencies": []
     },
-    "subjects/time/groove.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Groove.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 223,
-      "exportedPath": "subjects/time/groove.html",
+      "exportedPath": "Subjects/Time/Groove.html",
       "dependencies": []
     },
-    "subjects/time/rhythm.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Rhythm.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 386,
-      "exportedPath": "subjects/time/rhythm.html",
+      "exportedPath": "Subjects/Time/Rhythm.html",
       "dependencies": []
     },
-    "subjects/time/tempo.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Tempo.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 347,
-      "exportedPath": "subjects/time/tempo.html",
+      "exportedPath": "Subjects/Time/Tempo.html",
       "dependencies": []
     },
-    "subjects/time/time.md": {
-      "modifiedTime": 1728400538758,
+    "Subjects/Time/Time.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 654,
-      "exportedPath": "subjects/time/time.html",
+      "exportedPath": "Subjects/Time/Time.html",
       "dependencies": []
     },
-    "glossary.md": {
-      "modifiedTime": 1728400538758,
+    "Glossary.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 220,
-      "exportedPath": "glossary.html",
+      "exportedPath": "Glossary.html",
       "dependencies": []
     },
-    "index.md": {
-      "modifiedTime": 1728400538758,
+    "Index.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 556,
-      "exportedPath": "index.html",
+      "exportedPath": "Index.html",
       "dependencies": []
     },
-    "knowledge-map.canvas": {
-      "modifiedTime": 1728400538758,
+    "Knowledge Map.canvas": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 8304,
-      "exportedPath": "knowledge-map.html",
+      "exportedPath": "Knowledge Map.html",
       "dependencies": []
     },
-    "test.md": {
-      "modifiedTime": 1728400538758,
+    "Test.md": {
+      "modifiedTime": 1728404065164,
       "sourceSize": 722,
-      "exportedPath": "test.html",
+      "exportedPath": "Test.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728400538758,
+      "modifiedTime": 1728404065164,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
